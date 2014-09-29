@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tavant.iml" filepath="$PROJECT_DIR$/Tavant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nodeJsWs/nodeJsWs.iml" filepath="$PROJECT_DIR$/nodeJsWs/nodeJsWs.iml" />
+    </modules>
+  </component>
+</project>
+
